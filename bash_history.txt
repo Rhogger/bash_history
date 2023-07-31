@@ -1,0 +1,8 @@
+git init
+git branch -M main
+git remote add origin [ssh/http repo]
+git add ""
+git add .
+git commit -m ""
+git push origin main
+git add . && git commit -m "" && git push origin main
